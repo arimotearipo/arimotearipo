@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arimotearipo&label=Profile%20views&color=0e75b6&style=flat" alt="arimotearipo" /> </p>
 
-- Current project [rn-shop-app](https://github.com/arimotearipo/rn-shop-app)
+- I am currently working on a shopping cart app UI using React Native [rn-shop-app](https://github.com/arimotearipo/rn-shop-app) and also its backend server using Expressjs and MongoDB Atlas [server-rn-shop-app](https://github.com/arimotearipo/server-rn-shop-app)
 
 - Trying to get good at **Rust**
 
