@@ -5,7 +5,7 @@
 
 - I am currently working on a shopping cart app UI using React Native [rn-shop-app](https://github.com/arimotearipo/rn-shop-app) and also its backend server using Expressjs and MongoDB Atlas [server-rn-shop-app](https://github.com/arimotearipo/server-rn-shop-app)
 
-- Trying to get good at **Rust**
+- Trying to get good at **Go**
 
 - 📫 You can reach me at **wnadzahari@gmail.com**
 
