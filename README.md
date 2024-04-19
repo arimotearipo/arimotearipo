@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arimotearipo&label=Profile%20views&color=0e75b6&style=flat" alt="arimotearipo" /> </p>
 
-- I am currently working on a basic CLI Todo app using Go [todo_golang]([https://github.com/arimotearipo/rn-shop-app](https://github.com/arimotearipo/todo_golang)).
+- I am currently working on a basic CRUD Movie app using Go [todo_golang](https://github.com/arimotearipo/movies).
 
 - Trying to get good at **Go**
 
