@@ -1,5 +1,5 @@
 <h1 align="center">My name is Ari</h1>
-<h3 align="center">A full stack developer who is primarily working with JavaScript stacks (obviously) but am trying my hands on systems programming (mainly Rust)</h3>
+<h3 align="center">A full stack developer who is primarily working with JavaScript/TypeScript stacks (obviously) but am trying my hands on systems programming (Go and Rust)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arimotearipo&label=Profile%20views&color=0e75b6&style=flat" alt="arimotearipo" /> </p>
 
